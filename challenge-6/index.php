@@ -15,7 +15,8 @@ function sortChars(string $text): array
     return $chars;
 }
 
-function mergeChars($chars, &$mergedChars){
+function mergeChars(array $chars, array &$mergedChars): array
+{
     foreach($chars as $char => $counter){
         if(isset($mergedChars[$char])){
             $mergedChars[$char] = abs($mergedChars[$char] - $counter);
@@ -69,7 +70,5 @@ if(!empty($_POST['text-a']) && !empty($_POST['text-b'])){
                 <button>Différence</button>
             </div>
         </form>
-
-
     </body>
 </html>
