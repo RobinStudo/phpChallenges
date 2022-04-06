@@ -29,7 +29,7 @@ L'utilisateur ne pourra louer l'hélicoptère moins d'une heure ou plus de 10 jo
 * Ajouter deux champs date pour pouvoir filtrer les concerts par date
 * Les dates saisies devront être cohérente 
 
-## Configurateur de bateau
+## Challenge 5 - Configurateur de bateau
 
 Créer un formulaire pour configurer le prochain bateau que vous achèterez
 
@@ -39,11 +39,11 @@ A la fin le prix du bateau sera calculé et affiché, hors taxe et avec TVA
 
 Bonus : Réaliser le formulaire en multi étape 
 
-## Distance de texte
+## Challenge 6 - Distance de texte
 
 L'utilisateur pourra ajouter 2 textes dans des champs textarea, le script calculera la distance entre les chaines de caractères
 
-## Calculateur de frais de transport
+## Challenge 7 - Calculateur de frais de transport
 
 L'utilisateur saisira deux paires de coordonnées GPS ainsi que le poids d'un colis et une période de livraison (matin, après-midi, soir, nuit)
 
