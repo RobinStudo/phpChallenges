@@ -11,9 +11,9 @@ Créer un script permettant de détecter si un mot est un palindrome
 
 Créer un clavier numérique virtuel dont la position de chaque chiffre change à chaque chargement de page
 
-## Calculateur de frais de location
+## Challenge 3 - Calculateur de frais de location
 
- Créer un script qui calcule les frais de location d'un hélicoptère en fonction de la durée
+Créer un script qui calcule les frais de location d'un hélicoptère en fonction de la durée
 
 L'utilisateur saisira 2 dates dans un formulaire, date de début de location et date de fin
 
