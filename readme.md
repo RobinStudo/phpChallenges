@@ -1,13 +1,13 @@
 # PHP Challenges
 
-## Détecteur de palindrome
+## Challenge 1 - Détecteur de palindrome
 
 Créer un script permettant de détecter si un mot est un palindrome
 
 * Dans un premier temps, le mot sera directement dans une variable
 * Dans un second temps, accepter un mot en entrée via un formulaire
 
-## Digicode dynamique
+## Challenge 2 - Digicode dynamique
 
 Créer un clavier numérique virtuel dont la position de chaque chiffre change à chaque chargement de page
 
